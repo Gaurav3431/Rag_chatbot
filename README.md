@@ -38,7 +38,7 @@ transformers
 
 1. Clone the repository:
 bash
-git clone https://github.com/Gaurav_Kumar/rag-chatbot.git
+git clone https://github.com/Gaurav3431/rag-chatbot.git
 cd rag-chatbot
 
 
