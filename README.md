@@ -104,9 +104,8 @@ rag-chatbot/
 ## 👨‍💻 Author
 
 *Your Name*
-- GitHub: [@yourname](https://github.com/yourname)
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourname)
-
+- GitHub: github.com/Gaurav3431
+- LinkedIn: linkedin.com/in/gaurav-kumar-87a00a394
 ## 📄 License
 
 MIT License
