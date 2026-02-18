@@ -103,7 +103,7 @@ rag-chatbot/
 
 ## 👨‍💻 Author
 
-*Your Name*
+*Gaurav Kumar*
 - GitHub: github.com/Gaurav3431
 - LinkedIn: linkedin.com/in/gaurav-kumar-87a00a394
 ## 📄 License
@@ -116,21 +116,3 @@ Made with ❤️ using LangChain + FAISS + Streamlit
 
 
 **Commit changes** click karo!
-
----
-
-## **Step 4: Files Upload Karo**
-
-### **Option A: Upload via Website (Easiest)**
-
-1. Repository main page pe jao
-2. **Add file** → **Upload files** click karo
-3. **Drag files** ya **choose files** click karo
-4. Ye files select karo:
-
-   test1_basic.py
-   2_pdf_loader.py
-   3_embeddings.py
-   4_rag_chain.py
-   5_chatbot_ui.py
-   sample.pdf
